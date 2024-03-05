@@ -5,11 +5,14 @@ contract ProductRegistry{
     string public productName = "Example Product";
     string public constant productType = "";
 
-    function set(string name) public{
+    constructor() public {
+    }
+
+    function setProductName(string memory name) public{
         productName = name;
     }
     
-    function get() constant public returns (string){
+    function getProductName() public view returns (string memory){
         return productName;
     }
 }
