@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "productName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "productType",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ProductRegistry.sol": "ProductRegistry"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ProductRegistry.sol": {
+			"keccak256": "0x1027fd090a88304c7254666a6141f162821058ac299a5e64992abc19608d22fd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3c1bce6e61087521edf750db48890397c9ff86918ed58fc30f2a110f7abcb0a3",
+				"dweb:/ipfs/QmSjL7zrBbmzhNY7tdB947VzEJrhETkubzZYDxKCCSwgEN"
+			]
+		}
+	},
+	"version": 1
+}
