@@ -7,11 +7,6 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
 				"name": "getProductName",
 				"outputs": [
 					{
@@ -91,11 +86,11 @@
 	},
 	"sources": {
 		"ProductRegistry.sol": {
-			"keccak256": "0xeee009068c342f5c34aa8fd20604cf814fed60d4bc35101e0fac17848949d14d",
+			"keccak256": "0x3ad3060ac2072a292d1696415e08874189553e4aeb20b8253a6317e1e9f60f29",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6f7e149f0b8721fd8297c6b3b14ceb3805b773d826c3f0dc0bfbf778a30962db",
-				"dweb:/ipfs/QmSV8eG5NRbUwt965EJYVV1RKsNEDgzv4TV4tx5SuJFvA4"
+				"bzz-raw://309bc2878ee96db756d08c6f473adbb02a17e0c98cc8f185a2f3d46fb97d158c",
+				"dweb:/ipfs/QmY2sTpkeEdqbz4gVzmcSiyrNB6jArdoUqSwc5mVokv6Zx"
 			]
 		}
 	},

@@ -5,9 +5,6 @@ contract ProductRegistry{
     string public productName = "Example Product";
     string public constant productType = "";
 
-    constructor() public {
-    }
-
     function setProductName(string memory name) public{
         productName = name;
     }
